@@ -1,0 +1,7 @@
+name: VaultDoor
+version: 1.0.1
+author: psygate
+main: org.psygate.minecraft.vaultdoors.VaultDoors
+database: false
+depends: Citadel
+prefix: vaultdoors
